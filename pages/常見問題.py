@@ -175,7 +175,7 @@ st.markdown("""
 # ---------------------
 # 代幣相關問題
 # ---------------------
-st.markdown("<div class='category-title'>🪙 代幣相關</div>", unsafe_allow_html=True)
+st.markdown("<div class='category-title'> 代幣相關</div>", unsafe_allow_html=True)
 
 st.markdown("""
 <div class='faq-item'>
