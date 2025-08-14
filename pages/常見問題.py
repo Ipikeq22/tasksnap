@@ -173,6 +173,12 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ---------------------
+# 接案/發案功能流程介紹圖
+# ---------------------
+st.markdown("<div class='category-title'>📊 接案/發案功能流程介紹圖</div>", unsafe_allow_html=True)
+st.image("接案發案功能介紹圖.png", caption="接案/發案功能流程介紹圖", use_container_width=True)
+
+# ---------------------
 # 代幣相關問題
 # ---------------------
 st.markdown("<div class='category-title'> 代幣相關</div>", unsafe_allow_html=True)
