@@ -89,4 +89,4 @@ with col2:
 # Redirect button
 col1, col2, col3 = st.columns([1, 1, 1])
 with col2:
-       st.link_button("Go English Website 🌍", "https://tasksnap-ytmctx95gflwfq9pxzje2z.streamlit.app")
+       st.link_button("Go English Website 🌍", "https://tasksnap-englishmode-b2kk6dxliadpfkybawpo5u.streamlit.app/")
