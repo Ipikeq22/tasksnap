@@ -87,7 +87,7 @@ with col2:
     st.image("LETGO.png", caption="", width=600)
 
 # Redirect button
-col1, col2, col3 = st.columns([1, 2, 1])
+col1, col2, col3 = st.columns([1, 1, 1])
 with col2:
     if st.button("Go English Website 🌍"):
         st.markdown('<meta http-equiv="refresh" content="0; url=https://tasksnap-ytmctx95gflwfq9pxzje2z.streamlit.app">', unsafe_allow_html=True)
