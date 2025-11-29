@@ -19,6 +19,4 @@
 - **HTML / CSS (Embedded)**
 - **GitHub Pages 部署**
 
----
 
-## 📁 專案架構 Project Structure
